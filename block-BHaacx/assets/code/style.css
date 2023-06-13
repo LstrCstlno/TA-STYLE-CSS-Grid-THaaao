@@ -1,0 +1,562 @@
+.grid-1 {
+  background-image: url(/TA-STYLE-CSS-Grid-THaaao/block-BHaacx/assets/media/home-img.jpg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position-x: center;
+}
+.grid-1 h1 {
+  padding: 3rem 8rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: rgb(65, 42, 42);
+  text-shadow: 1px 2px 2px rgba(246, 235, 235, 0.5);
+}
+
+.intro {
+  background-color: #F5E3D7;
+  padding-top: 2rem;
+}
+
+.nav-head {
+  padding: 0 3rem;
+  color: #5E5B58;
+  font-size: 0.9rem;
+}
+.nav-head li a {
+  transition: 0.3s;
+}
+
+.nav-head li a:hover {
+  color: #EFBF77;
+  cursor: pointer;
+}
+
+.intro-main {
+  padding-top: 10rem;
+}
+.intro-main h2 {
+  color: #9d9892;
+  font-size: 0.9rem;
+  font-weight: 300;
+  padding-bottom: 2rem;
+}
+.intro-main h3 {
+  font-size: 2.5rem;
+  font-weight: 200;
+  padding-bottom: 2rem;
+}
+.intro-main h3 strong {
+  font-weight: 300;
+}
+.intro-main p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #aea9a4;
+  font-weight: 300;
+  padding-bottom: 6rem;
+}
+.intro-main button {
+  border: 3px solid #5E5B58;
+  background-color: F5E3D7;
+  padding: 0.8rem 2rem;
+  border-radius: 3rem;
+  margin-bottom: 5rem;
+  font-weight: 800;
+  font-size: 0.7rem;
+}
+
+.grid-3-parent {
+  padding: 3rem 0;
+}
+.grid-3-parent h2 {
+  font-size: 2.5rem;
+  font-weight: 200;
+  color: #5E5B58;
+  padding-bottom: 1.5rem;
+}
+.grid-3-parent h3 {
+  color: #EFBF77;
+  padding-bottom: 2.5rem;
+  font-weight: 300;
+}
+.grid-3-parent p {
+  color: #cbc5bf;
+  font-weight: 300;
+  line-height: 1.5;
+}
+.grid-3-parent p:first-of-type {
+  padding-bottom: 1rem;
+}
+
+.grid-4 div {
+  width: 100%;
+}
+.grid-4 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.progress progress {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 2px;
+  accent-color: black;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+::-webkit-progress-bar {
+  background-color: white;
+}
+
+::-webkit-progress-value {
+  background-color: black;
+}
+
+.grid-5 {
+  background-color: #ECAF4E;
+}
+
+.progress-head h4:nth-of-type(2) {
+  color: white;
+}
+
+.skills {
+  padding: 3rem 0;
+}
+.skills h2 {
+  font-size: 2.5rem;
+  font-weight: 200;
+  color: white;
+  padding-bottom: 2rem;
+}
+.skills h3 {
+  color: white;
+  font-weight: 200;
+  padding-bottom: 3rem;
+}
+
+.features {
+  color: white;
+  padding: 3rem 0;
+}
+.features i {
+  font-size: 2.5rem;
+  padding-bottom: 3rem;
+}
+.features h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  padding-bottom: 1rem;
+}
+.features p {
+  line-height: 2;
+  font-weight: 300;
+  padding-bottom: 2rem;
+}
+
+.grid-6 {
+  background-color: #ECAF4E;
+}
+
+.grid-7 {
+  background-color: #FC683E;
+}
+
+.grid-8 {
+  background-color: black;
+}
+
+.grid-9 .features {
+  color: black;
+}
+.grid-9 .features p {
+  color: rgb(202, 200, 200);
+}
+
+.grid-10 div {
+  width: 100%;
+}
+.grid-10 img {
+  width: 100%;
+}
+
+.qualifiation-head {
+  padding: 2rem 0;
+  color: white;
+}
+.qualifiation-head h3 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  padding-bottom: 1rem;
+}
+.qualifiation-head h4 {
+  font-weight: 200;
+  padding-bottom: 2rem;
+}
+
+.qualifiation-container {
+  color: white;
+  padding-bottom: 2rem;
+}
+.qualifiation-container i {
+  font-size: 3rem;
+  padding-right: 3rem;
+}
+.qualifiation-container h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  padding-bottom: 1rem;
+}
+.qualifiation-container h3 span {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #551604;
+}
+.qualifiation-container p {
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+.grid-11 {
+  background-color: #FC683E;
+  padding: 1.5rem 0;
+}
+
+.grid-12 {
+  background-color: #ECAF4E;
+  padding: 1.5rem 0;
+}
+
+.grid-12 .qualifiation-container span {
+  color: #815207;
+}
+
+.grid-13 div {
+  width: 100%;
+}
+.grid-13 img {
+  width: 100%;
+}
+
+.grid-14 {
+  background-color: #FC683E;
+  padding-top: 3rem;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 2rem;
+  border: none;
+  background-color: #FC683E;
+  color: white;
+  font-family: "Kanit", sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+  border-bottom: 1px solid rgb(201, 199, 199);
+}
+
+input {
+  padding-bottom: 1rem;
+}
+
+input::-moz-placeholder {
+  color: white;
+  font-family: "Kanit", sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+input::placeholder {
+  color: white;
+  font-family: "Kanit", sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+.form-container {
+  padding-top: 2rem;
+}
+
+.form-head {
+  color: white;
+}
+.form-head h3 {
+  font-size: 2rem;
+  font-weight: 300;
+  padding-bottom: 1rem;
+}
+.form-head p {
+  font-weight: 200;
+}
+
+.form-container div button {
+  width: 50%;
+}
+.form-container button {
+  border: 1px solid white;
+  background-color: white;
+  padding: 0.8rem 2rem;
+  border-radius: 3rem;
+  margin-bottom: 5rem;
+  font-weight: 800;
+  font-size: 0.7rem;
+  font-weight: 200;
+  font-size: 1rem;
+}
+
+.grid-15 div {
+  width: 100%;
+}
+.grid-15 img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.visit-container {
+  margin: 0 2rem;
+}
+
+.visit {
+  background-color: black;
+  color: rgb(168, 167, 167);
+}
+
+.contact {
+  padding-bottom: 1rem;
+}
+.contact a {
+  color: rgb(168, 167, 167);
+  font-weight: 300;
+}
+.contact i {
+  padding-right: 1rem;
+}
+
+.contact-1 {
+  padding-bottom: 1rem;
+}
+.contact-1 a {
+  color: #9e5c0c;
+  font-weight: 300;
+}
+.contact-1 i {
+  padding-right: 1rem;
+}
+
+.visit-container {
+  padding: 2rem 0;
+}
+.visit-container h3 {
+  font-size: 2rem;
+  font-weight: 300;
+  padding-bottom: 1rem;
+}
+.visit-container address {
+  font-weight: 200;
+  padding-bottom: 3rem;
+}
+
+.grid-17 {
+  padding: 1.5rem 0;
+  background-color: #FC683E;
+}
+
+.map {
+  box-shadow: 2px 6px 6px 4px rgba(0, 0, 0, 0.5);
+}
+
+.foot {
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+}
+.foot div p {
+  padding-bottom: 3rem;
+  color: #9d9892;
+  font-weight: 300;
+}
+.foot div p span {
+  color: #ECAF4E;
+  font-weight: 300;
+}
+
+.foot-nav .flex {
+  justify-content: center;
+  margin-right: 3rem;
+}
+.foot-nav .flex li a {
+  padding-left: 3rem;
+  color: #9d9892;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.intro-main {
+  margin: 0 2rem;
+}
+
+.grid-3-parent {
+  margin: 0 2rem;
+}
+
+.skills {
+  margin: 0 2rem;
+}
+
+.features {
+  margin: 0 2rem;
+}
+
+.qualifiation {
+  margin: 0 2rem;
+}
+
+.grid-17 {
+  grid-column: span 4;
+}
+
+.header {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 10px;
+  }
+  .grid-container {
+    display: inline-block;
+  }
+  .span2 {
+    grid-column: span 1;
+  }
+  .map {
+    margin: 0 2rem;
+  }
+  .form-parent {
+    margin: 0 2rem;
+  }
+  .hide-mobile {
+    display: none;
+  }
+  .nav-head {
+    display: none;
+  }
+  .header {
+    display: inline-block;
+    width: 93%;
+    padding: 1rem;
+  }
+  .header h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: rgb(65, 42, 42);
+    text-shadow: 1px 2px 2px rgba(246, 235, 235, 0.5);
+  }
+  .nav-head-mobile {
+    display: inline-block;
+  }
+  .nav-head-mobile i {
+    color: rgb(65, 42, 42);
+    font-size: 1.5rem;
+  }
+}
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.spacebtw {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.span2 {
+  grid-column: span 2;
+}
+
+.hide {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
