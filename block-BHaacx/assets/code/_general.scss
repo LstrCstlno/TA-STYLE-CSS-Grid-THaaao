@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.spacebtw{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.span2{
+    grid-column: span 2;
+}
+
+.hide{
+    display: none;
+}
+
